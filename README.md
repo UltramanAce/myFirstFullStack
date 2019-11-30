@@ -1,4 +1,13 @@
-# vuenodefullstack
+【前端】
+【目录结构】
+【封装请求方法/请求拦截器/响应拦截器】
+【请求代理配置】
+【公用方法】
+【公用css/基础css】
+【页面模块化布局】
+【前端组件化】
+
+<!-- # vuenodefullstack
 
 > A Vue.js project
 
@@ -27,4 +36,4 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader). -->
